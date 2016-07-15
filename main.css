@@ -1,3 +1,7 @@
+body {
+    font-family: Microsoft JhengHei;
+        font-weight:900
+}
 .lottery{
     background: #f8efa9;
     border-bottom-color: rgba{0,0,0,0};
@@ -13,6 +17,8 @@ strong{
     border-radius: 25px;
     text-align: center;
     font-weight: 900;
+    font-size:23px;
+    font-family: Arial;
 
 }
 .a1,.a2,.a3,.a4,.a5,.a6{
@@ -22,6 +28,8 @@ strong{
     border-radius: 25px;
     text-align: center;
     font-weight: 900;
+    font-size:23px;
+    font-family: Arial;
     
 
     
@@ -34,6 +42,8 @@ strong{
     text-align: center;
     font-weight: 900;
     color: white;
+    font-size:23px;
+    font-family: Arial;
 
 }
 td{
